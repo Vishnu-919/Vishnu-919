@@ -1,236 +1,284 @@
 # 👋 Hi, I'm B Vishnuvardan
 
-### AI/ML Enthusiast • Software Developer • Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Python;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-I'm a **Computer Science/Information Technology graduate from Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**, passionate about building practical software solutions using **Artificial Intelligence, Machine Learning, Java, Spring Boot, and modern web technologies**.
-
-Currently, I'm working toward becoming a strong **Software Developer**, with a particular interest in **AI/ML, backend development, distributed systems, and intelligent applications**.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.E. – Information Technology | **CBIT, Hyderabad**
-* 💼 Selected as **Graduate Engineer Trainee (GET) at Coforge**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* ☕ Strong interest in **Java & Spring Boot**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔐 Exploring **Cybersecurity & AI-powered security**
-* 🌐 Experienced with **Full-Stack & Backend Development**
-* ☁️ Exploring **Cloud, Distributed Systems & Microservices**
-* 📚 Continuously learning and building projects
+<p align="center">
+  <a href="https://github.com/Vishnu-919">
+    <img src="https://img.shields.io/badge/GitHub-Vishnu--919-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
+<td width="55%">
 
-`Java` `Python` `JavaScript` `SQL` `HTML` `CSS`
+🎓 **B.E. – Information Technology**
+Chaitanya Bharathi Institute of Technology, Hyderabad
+
+💼 **Graduate Engineer Trainee – Coforge**
+
+🤖 Passionate about **AI/ML & Generative AI**
+
+☕ Interested in **Java & Spring Boot**
+
+🔐 Exploring **Cybersecurity & AI Security**
+
+🧠 Improving **DSA & Problem Solving**
+
+☁️ Learning **Cloud, DevOps & Distributed Systems**
+
+🚀 Building practical, real-world applications
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishnu-919&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
+</p>
 
 ### 🤖 AI / Machine Learning
 
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `RAG` `Whisper` `Gemini`
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-### ⚙️ Backend & Frameworks
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `RAG` `Agentic AI`
 
-`Spring Boot` `Spring Cloud` `Spring MVC` `Java Servlets` `JDBC` `Node.js` `Express.js`
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+`Spring Boot` `Spring Cloud` `REST APIs` `JDBC` `Servlets` `JSP` `Microservices`
 
 ### 🌐 Frontend
 
-`React.js` `Angular` `HTML5` `CSS3` `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
+</p>
 
 ### 🗄️ Databases
 
-`MySQL` `MongoDB` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### ☁️ Cloud / DevOps / Big Data
+### ☁️ DevOps / Big Data
 
-`Oracle Cloud Infrastructure` `Docker` `Git` `GitHub` `Apache Spark` `Hadoop` `Kafka`
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+</p>
 
-### 🔧 Tools
-
-`VS Code` `Eclipse` `Google Colab` `Postman` `GitHub Actions`
-
----
-
-# 🔥 Featured Projects
-
-## 🛡️ DeepGuard – AI Voice Scam Detection
-
-**Real-Time Scam-Risk Detection for AI Voice-Cloning Phone Calls**
-
-An AI-powered system designed to identify potential scam calls involving **AI-generated or cloned voices**.
-
-**Focus:**
-`Deepfake Audio Detection` `Speech Processing` `AI` `Cybersecurity` `Real-Time Detection`
+`Apache Spark` `Hadoop` `Kafka` `Oracle Cloud`
 
 ---
 
-## 🏛️ JanSevaAI – Voice-First Government Assistant
+# 🚀 Featured Projects
 
-A **Telugu voice-based AI assistant** designed to help users discover and understand government welfare schemes.
+<table>
+<tr>
+<td width="50%">
 
-### Key Technologies
+### 🛡️ DeepGuard
 
-`Python` `Gemini` `RAG` `Whisper` `gTTS` `NLP`
+**AI Voice Scam Detection**
 
-### Architecture
+Real-time detection of potential scam calls involving AI-generated or cloned voices.
 
-**Planner → Executor → Evaluator**
+**Tech:**
+`Python` `Deep Learning` `Speech Processing` `AI Security`
 
-The system combines voice interaction, retrieval-augmented generation, conversational memory, and AI reasoning to make government services more accessible.
+</td>
 
----
+<td width="50%">
 
-## 🚨 Smart Incident Detection System
+### 🏛️ JanSevaAI
 
-An intelligent CCTV-based system for detecting **accidents and physical incidents** in real time.
+**Voice-First Government Assistant**
 
-### Technologies
+Telugu voice-based AI assistant helping users discover government welfare schemes.
 
+**Tech:**
+`Python` `Gemini` `RAG` `Whisper` `gTTS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚨 Smart Incident Detection
+
+Real-time CCTV system for detecting accidents and physical incidents.
+
+**Tech:**
 `YOLOv8` `CNN` `Python` `Computer Vision` `GPS`
 
-The system combines visual detection with automated alert mechanisms to notify relevant users when an incident is detected.
+</td>
+
+<td width="50%">
+
+### 💰 Smart Product Pricing
+
+ML system combining product images and structured features for price prediction.
+
+**Tech:**
+`Python` `EfficientNetB0` `TensorFlow` `Ridge Regression`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Crypto Intelligence
+
+Blockchain wallet analysis and transaction relationship visualization.
+
+**Tech:**
+`Python` `Pandas` `NetworkX` `Flask`
+
+</td>
+
+<td width="50%">
+
+### 🏠 Smart Home Services
+
+Full-stack service booking platform with real-time communication.
+
+**Tech:**
+`MERN` `React` `Node.js` `MongoDB` `Socket.io`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💰 Smart Product Pricing
+# 🧠 Current Learning
 
-Machine-learning project combining **product image information and tabular features** to predict product prices.
+<p align="center">
 
-### Technologies
+`DSA` → `Java` → `Spring Boot` → `Microservices` → `AI/ML` → `Generative AI` → `Agentic AI`
 
-`Python` `TensorFlow` `EfficientNetB0` `Feature Engineering` `Ridge Regression`
+</p>
 
-Used image embeddings extracted from product images and combined them with structured product features.
+### 🎯 Currently focusing on
 
----
-
-## 🔐 Crypto Analysis & Intelligence Mapping
-
-Blockchain analytics project for analyzing cryptocurrency wallet activity and transaction relationships.
-
-### Technologies
-
-`Python` `Pandas` `NetworkX` `Matplotlib` `Flask` `Blockchain APIs`
-
-Provides wallet-level analysis and network visualization for understanding transaction patterns.
-
----
-
-## 🏠 Smart Home Services
-
-Full-stack home-service booking platform.
-
-### Technologies
-
-`MERN Stack` `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
-
-Includes service booking, real-time communication, and a modern web interface.
-
----
-
-## 📚 Online Course Registration System
-
-Web-based course registration platform developed using Java enterprise technologies.
-
-### Technologies
-
-`Java Servlets` `JSP` `JDBC` `MySQL` `Apache Tomcat`
-
-Implemented user registration, authentication, sessions, course selection, and database connectivity.
-
----
-
-# 🧠 Currently Learning
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Generative AI
-        ↓
-Agentic AI
-        ↓
-Production AI Applications
-```
-
-Alongside AI, I'm improving my knowledge of:
-
-* Data Structures & Algorithms
-* System Design
-* Microservices
-* Spring Boot
-* Cloud Computing
-* Docker & DevOps
-* Distributed Systems
-* Cybersecurity
+* 💻 Data Structures & Algorithms
+* ☕ Advanced Java & Spring Boot
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Generative AI & RAG
+* 🔗 Agentic AI
+* 🏗️ System Design
+* ☁️ Cloud & DevOps
+* 🔐 AI Security
+* 🌐 Distributed Systems
 
 ---
 
 # 🏆 Certifications & Achievements
 
-* 🏅 **Oracle Cloud Infrastructure 2025 – AI Certification**
-* 🏅 **NPTEL Certifications**
-* 🤖 **AI Prompt Engineering Internship – Future Interns**
-* 💻 Built multiple AI/ML and full-stack projects
-* 🎯 Selected for **Coforge – Graduate Engineer Trainee**
-* 📈 CGPA: **8.23**
+| 🏅 Achievement      | Details                                    |
+| ------------------- | ------------------------------------------ |
+| 💼 Placement        | **Coforge – Graduate Engineer Trainee**    |
+| 🤖 AI Certification | **Oracle Cloud Infrastructure 2025 – AI**  |
+| 🧠 Internship       | **AI Prompt Engineering – Future Interns** |
+| 📚 Certifications   | **NPTEL Certifications**                   |
+| 🎓 Academic         | **CGPA – 8.23**                            |
 
 ---
 
-# 💻 Coding Profiles
-
-### LeetCode
-
-**B_VISHNUVARDAN919**
-
-Currently focusing on improving:
-
-`Arrays` → `Strings` → `Linked Lists` → `Trees` → `Graphs` → `Dynamic Programming`
-
-### GitHub
-
-**Vishnu-919**
-
-Building projects, experimenting with new technologies, and documenting my learning journey.
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-919&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-919&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnu-919&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-919&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-919&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 My Developer Journey
+# 💻 Coding Journey
+
+### 🧩 LeetCode
+
+**Username:** `B_VISHNUVARDAN919`
+
+Currently strengthening:
 
 ```text
-Programming
-     ↓
-Web Development
-     ↓
-Java & Spring Boot
-     ↓
-Machine Learning
-     ↓
-Deep Learning
-     ↓
-Generative AI
-     ↓
-Agentic AI
-     ↓
-Production-Level Software
+Arrays
+ ↓
+Strings
+ ↓
+Linked Lists
+ ↓
+Stacks & Queues
+ ↓
+Trees
+ ↓
+Graphs
+ ↓
+Dynamic Programming
+```
+
+---
+
+# 📈 Developer Journey
+
+```text
+       Programming
+            │
+            ▼
+    Web Development
+            │
+            ▼
+     Java / Spring
+            │
+            ▼
+     Machine Learning
+            │
+            ▼
+      Deep Learning
+            │
+            ▼
+     Generative AI
+            │
+            ▼
+       Agentic AI
+            │
+            ▼
+   Production Systems
 ```
 
 > **Learn → Build → Break → Debug → Improve → Repeat 🔥**
@@ -239,37 +287,44 @@ Production-Level Software
 
 # 🎯 2026 Goals
 
-* [ ] Become stronger in **Data Structures & Algorithms**
-* [ ] Build production-quality **AI/ML applications**
-* [ ] Improve **Java & Spring Boot**
-* [ ] Learn advanced **System Design**
-* [ ] Strengthen **Cloud & DevOps**
-* [ ] Contribute to **Open Source**
-* [ ] Build and deploy more **real-world AI projects**
+* [ ] Master Data Structures & Algorithms
+* [ ] Build production-quality AI applications
+* [ ] Strengthen Java & Spring Boot
+* [ ] Learn advanced System Design
+* [ ] Improve Cloud & DevOps skills
+* [ ] Contribute to Open Source
+* [ ] Build AI + Cybersecurity projects
+* [ ] Deploy projects to the cloud
 * [ ] Maintain consistent GitHub activity
-* [ ] Grow as a professional software developer
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in:
+<p align="center">
 
-* 🤖 AI/ML projects
-* 💻 Software development
-* 🚀 Startup ideas
-* 🔐 Cybersecurity
-* 🌐 Open-source contributions
-* 🧠 Learning and collaboration
+<a href="https://github.com/Vishnu-919">
+<img src="https://img.shields.io/badge/GitHub-Vishnu--919-black?style=for-the-badge&logo=github" />
+</a>
 
-**If you're building something interesting, let's connect and build it together!**
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-B%20Vishnuvardan-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-B__VISHNUVARDAN919-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+### ⭐ Thanks for visiting my profile!
 
-### Thanks for visiting my profile! 🚀
+**Let's build something intelligent. 🤖**
+
+<img src="https://komarev.com/ghpvc/?username=Vishnu-919&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
