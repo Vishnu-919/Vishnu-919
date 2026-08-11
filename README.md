@@ -1,181 +1,134 @@
-# 👋 Hi, I'm B Vishnuvardan
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Python;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="YOUR_BANNER_IMAGE_URL" width="400"/>
 </p>
 
+<h1 align="center">🌟 B Vishnuvardan — AI, Code & Cloud Adventures! 🚀</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programmer-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://github.com/Vishnu-919">
+    <img src="https://img.shields.io/badge/GitHub-Vishnu--919-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="YOUR_TRYHACKME_URL">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌸 About Me
+
+🎓 **B.E. Information Technology** | **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
+💼 **Graduate Engineer Trainee at Coforge**
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+☕ Interested in **Java, Spring Boot, Backend Development & Microservices**
+🔐 Exploring **Cybersecurity, AI Security & Ethical Hacking**
+🧠 Continuously improving **Data Structures, Algorithms & Problem Solving**
+☁️ Exploring **Cloud Computing, Docker, DevOps & Distributed Systems**
+🚀 I enjoy building **real-world applications that combine software engineering with AI**
+
+---
+
+## ⚡ Skills & Tools
+
+**Languages & AI/ML:**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+**Backend & Frameworks:**
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+**Frontend:**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Databases:**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**Cloud, DevOps & Big Data:**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+**Programming & Cybersecurity:**
+
+<img src="https://img.shields.io/badge/Programmer-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/CyberSecurity-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
 
-## 🧑‍💻 About Me
+## 💎 Featured Projects
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+### 🤖 AI & Machine Learning
 
-☕ Interested in **Java, Spring Boot & Backend Development**
+* **[DeepGuard](YOUR_DEEPGUARD_REPO_URL)** — Real-time scam-risk detection for AI voice-cloning phone calls
+* **[JanSevaAI](YOUR_JANSEVAAI_REPO_URL)** — Telugu voice-first AI assistant for discovering government welfare schemes
+* **[Smart Product Pricing](YOUR_SMART_PRICING_REPO_URL)** — ML-based product price prediction using image embeddings and structured features
+* **[Smart Incident Detection](YOUR_INCIDENT_REPO_URL)** — Real-time accident and incident detection using YOLOv8 and CNN
 
-🔐 Exploring **Cybersecurity & AI Security**
+### 🛡️ Cybersecurity & Blockchain
 
-🧠 Improving **Data Structures & Algorithms**
+* **[Crypto Intelligence Mapping](YOUR_CRYPTO_REPO_URL)** — Blockchain wallet analysis and transaction relationship visualization
+* **[AI Security](YOUR_AI_SECURITY_REPO_URL)** — Exploring the intersection of AI and cybersecurity
 
-☁️ Learning **Cloud, DevOps & Distributed Systems**
+### 💻 Software Development
 
-🚀 Building practical, real-world software and AI applications.
-
----
-
-## ⚡ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `RAG` `Agentic AI`
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-`Spring Boot` `Spring Cloud` `REST APIs` `JDBC` `Servlets` `JSP` `Microservices`
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### ☁️ DevOps / Big Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
-</p>
-
-`Apache Spark` `Hadoop` `Kafka` `Oracle Cloud`
+* **[Twixy](YOUR_TWIXY_REPO_URL)** — Full-stack application using Spring Boot microservices
+* **[Smart Home Services](YOUR_SMARTHOME_REPO_URL)** — MERN-based home-service booking platform
+* **[Online Course Registration System](YOUR_COURSE_REPO_URL)** — Java Servlets, JSP, JDBC and MySQL based application
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 Certifications & Achievements
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ DeepGuard
-
-**AI Voice Scam Detection**
-
-Real-time detection of potential scam calls involving AI-generated or cloned voices.
-
-**Tech:**
-`Python` `Deep Learning` `Speech Processing` `AI Security`
-
-</td>
-
-<td width="50%">
-
-### 🏛️ JanSevaAI
-
-**Voice-First Government Assistant**
-
-Telugu voice-based AI assistant helping users discover government welfare schemes.
-
-**Tech:**
-`Python` `Gemini` `RAG` `Whisper` `gTTS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚨 Smart Incident Detection
-
-Real-time CCTV system for detecting accidents and physical incidents.
-
-**Tech:**
-`YOLOv8` `CNN` `Python` `Computer Vision` `GPS`
-
-</td>
-
-<td width="50%">
-
-### 💰 Smart Product Pricing
-
-ML system combining product images and structured features for price prediction.
-
-**Tech:**
-`Python` `EfficientNetB0` `TensorFlow` `Ridge Regression`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Crypto Intelligence
-
-Blockchain wallet analysis and transaction relationship visualization.
-
-**Tech:**
-`Python` `Pandas` `NetworkX` `Flask`
-
-</td>
-
-<td width="50%">
-
-### 🏠 Smart Home Services
-
-Full-stack service booking platform with real-time communication.
-
-**Tech:**
-`MERN` `React` `Node.js` `MongoDB` `Socket.io`
-
-</td>
-</tr>
-</table>
+🏅 **Oracle Cloud Infrastructure 2025 – AI Certification**
+🤖 **AI Prompt Engineering Internship – Future Interns**
+📚 **NPTEL Certifications**
+💼 **Selected as Graduate Engineer Trainee – Coforge**
+🎓 **CGPA: 8.23**
 
 ---
 
-# 🧠 Current Learning
+## 🧠 Currently Learning
 
-<p align="center">
-
-`DSA` → `Java` → `Spring Boot` → `Microservices` → `AI/ML` → `Generative AI` → `Agentic AI`
-
-</p>
-
-### Currently focusing on
-
-* 💻 Data Structures & Algorithms
-* ☕ Advanced Java & Spring Boot
-* 🤖 Machine Learning & Deep Learning
+* 🤖 Advanced Machine Learning & Deep Learning
 * 🧠 Generative AI & RAG
 * 🔗 Agentic AI
-* 🏗️ System Design
-* ☁️ Cloud & DevOps
-* 🔐 AI Security
+* ☕ Advanced Java & Spring Boot
+* 🏗️ Microservices & System Design
+* 💻 Data Structures & Algorithms
+* ☁️ Cloud Computing & DevOps
+* 🔐 Cybersecurity & AI Security
 * 🌐 Distributed Systems
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-919&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
@@ -189,13 +142,73 @@ Full-stack service booking platform with real-time communication.
 
 ---
 
+## 💻 Coding Journey
+
+### 🧩 LeetCode
+
+**Username:** `B_VISHNUVARDAN919`
+
+```text
+Arrays
+   ↓
+Strings
+   ↓
+Linked Lists
+   ↓
+Stacks & Queues
+   ↓
+Trees
+   ↓
+Graphs
+   ↓
+Dynamic Programming
+```
+
+### 🔐 Cybersecurity
+
+Currently exploring:
+
+`TryHackMe` `Linux` `Networking` `Ethical Hacking` `Web Security` `AI Security`
+
+---
+
+## 📈 Developer Journey
+
+```text
+        Programming
+             │
+             ▼
+     Web Development
+             │
+             ▼
+      Java / Spring
+             │
+             ▼
+       Microservices
+             │
+             ▼
+     Machine Learning
+             │
+             ▼
+      Deep Learning
+             │
+             ▼
+      Generative AI
+             │
+             ▼
+        Agentic AI
+             │
+             ▼
+   Production Systems
+```
+
+---
+
 <p align="center">
 
-> **Learn → Build → Break → Debug → Improve → Repeat 🔥**
+<i>Thanks for stopping by! Keep learning, keep building, and keep improving 🚀</i>
 
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something intelligent. 🤖**
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Vishnu-919&label=Profile%20Views&color=0e75b6&style=flat" />
 
