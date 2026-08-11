@@ -1,74 +1,54 @@
-# 👋 Hi, I'm  Vishnuvardan
+# 👋 Hi, I'm B Vishnuvardan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Python;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vishnu-919">
-    <img src="https://img.shields.io/badge/GitHub-Vishnu--919-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-Coforge-181717?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+🎓 **B.E. – Information Technology**
+**Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
+💼 **Graduate Engineer Trainee – Coforge**
 
-🤖 Passionate about **AI/ML & Generative AI**
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-☕ Interested in **Java & Spring Boot**
+☕ Interested in **Java, Spring Boot & Backend Development**
 
 🔐 Exploring **Cybersecurity & AI Security**
 
-🧠 Improving **DSA & Problem Solving**
+🧠 Improving **Data Structures & Algorithms**
 
 ☁️ Learning **Cloud, DevOps & Distributed Systems**
 
-🚀 Building practical, real-world applications
-
-</td>
-
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnu-919&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-</td>
-</tr>
-</table>
+🚀 Building practical, real-world software and AI applications.
 
 ---
 
 ## ⚡ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
 `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `RAG` `Agentic AI`
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 `Spring Boot` `Spring Cloud` `REST APIs` `JDBC` `Servlets` `JSP` `Microservices`
@@ -76,19 +56,19 @@
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ DevOps / Big Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
 
 `Apache Spark` `Hadoop` `Kafka` `Oracle Cloud`
@@ -140,6 +120,40 @@ Real-time CCTV system for detecting accidents and physical incidents.
 
 <td width="50%">
 
+### 💰 Smart Product Pricing
+
+ML system combining product images and structured features for price prediction.
+
+**Tech:**
+`Python` `EfficientNetB0` `TensorFlow` `Ridge Regression`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Crypto Intelligence
+
+Blockchain wallet analysis and transaction relationship visualization.
+
+**Tech:**
+`Python` `Pandas` `NetworkX` `Flask`
+
+</td>
+
+<td width="50%">
+
+### 🏠 Smart Home Services
+
+Full-stack service booking platform with real-time communication.
+
+**Tech:**
+`MERN` `React` `Node.js` `MongoDB` `Socket.io`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -151,7 +165,7 @@ Real-time CCTV system for detecting accidents and physical incidents.
 
 </p>
 
-### 🎯 Currently focusing on
+### Currently focusing on
 
 * 💻 Data Structures & Algorithms
 * ☕ Advanced Java & Spring Boot
@@ -163,8 +177,20 @@ Real-time CCTV system for detecting accidents and physical incidents.
 * 🔐 AI Security
 * 🌐 Distributed Systems
 
+---
+
+# 🏆 Certifications & Achievements
+
+| 🏅 Achievement      | Details                                    |
+| ------------------- | ------------------------------------------ |
+| 💼 Placement        | **Coforge – Graduate Engineer Trainee**    |
+| 🤖 AI Certification | **Oracle Cloud Infrastructure 2025 – AI**  |
+| 🧠 Internship       | **AI Prompt Engineering – Future Interns** |
+| 📚 Certifications   | **NPTEL Certifications**                   |
+| 🎓 Academic         | **CGPA – 8.23**                            |
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -177,41 +203,62 @@ Real-time CCTV system for detecting accidents and physical incidents.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-919&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+# 💻 Coding Journey
+
+### 🧩 LeetCode
+
+**Username:** `B_VISHNUVARDAN919`
+
+Currently strengthening:
+
+```text
+Arrays
+   ↓
+Strings
+   ↓
+Linked Lists
+   ↓
+Stacks & Queues
+   ↓
+Trees
+   ↓
+Graphs
+   ↓
+Dynamic Programming
+```
+
+---
+
+# 📈 Developer Journey
+
+```text
+       Programming
+            │
+            ▼
+    Web Development
+            │
+            ▼
+     Java / Spring
+            │
+            ▼
+     Machine Learning
+            │
+            ▼
+      Deep Learning
+            │
+            ▼
+     Generative AI
+            │
+            ▼
+       Agentic AI
+            │
+            ▼
+   Production Systems
+```
+
 > **Learn → Build → Break → Debug → Improve → Repeat 🔥**
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Master Data Structures & Algorithms
-* [ ] Build production-quality AI applications
-* [ ] Strengthen Java & Spring Boot
-* [ ] Learn advanced System Design
-* [ ] Improve Cloud & DevOps skills
-* [ ] Contribute to Open Source
-* [ ] Build AI + Cybersecurity projects
-* [ ] Deploy projects to the cloud
-* [ ] Maintain consistent GitHub activity
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Vishnu-919">
-<img src="https://img.shields.io/badge/GitHub-Vishnu--919-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-B%20Vishnuvardan-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-B__VISHNUVARDAN919-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-</p>
 
 ---
 
