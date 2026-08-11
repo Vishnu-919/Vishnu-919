@@ -1,4 +1,4 @@
-\<p align="center">
+<p align="center">
   \<img src="[https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403](https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403)" width="400" alt="B Vishnuvardan"/>
 \</p>
 
