@@ -1,4 +1,4 @@
-# 👋 Hi, I'm B Vishnuvardan
+# 👋 Hi, I'm  Vishnuvardan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Python;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,10 +24,6 @@
 <tr>
 <td width="55%">
 
-🎓 **B.E. – Information Technology**
-Chaitanya Bharathi Institute of Technology, Hyderabad
-
-💼 **Graduate Engineer Trainee – Coforge**
 
 🤖 Passionate about **AI/ML & Generative AI**
 
@@ -144,40 +140,6 @@ Real-time CCTV system for detecting accidents and physical incidents.
 
 <td width="50%">
 
-### 💰 Smart Product Pricing
-
-ML system combining product images and structured features for price prediction.
-
-**Tech:**
-`Python` `EfficientNetB0` `TensorFlow` `Ridge Regression`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Crypto Intelligence
-
-Blockchain wallet analysis and transaction relationship visualization.
-
-**Tech:**
-`Python` `Pandas` `NetworkX` `Flask`
-
-</td>
-
-<td width="50%">
-
-### 🏠 Smart Home Services
-
-Full-stack service booking platform with real-time communication.
-
-**Tech:**
-`MERN` `React` `Node.js` `MongoDB` `Socket.io`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -201,17 +163,6 @@ Full-stack service booking platform with real-time communication.
 * 🔐 AI Security
 * 🌐 Distributed Systems
 
----
-
-# 🏆 Certifications & Achievements
-
-| 🏅 Achievement      | Details                                    |
-| ------------------- | ------------------------------------------ |
-| 💼 Placement        | **Coforge – Graduate Engineer Trainee**    |
-| 🤖 AI Certification | **Oracle Cloud Infrastructure 2025 – AI**  |
-| 🧠 Internship       | **AI Prompt Engineering – Future Interns** |
-| 📚 Certifications   | **NPTEL Certifications**                   |
-| 🎓 Academic         | **CGPA – 8.23**                            |
 
 ---
 
@@ -227,59 +178,6 @@ Full-stack service booking platform with real-time communication.
 </p>
 
 ---
-
-# 💻 Coding Journey
-
-### 🧩 LeetCode
-
-**Username:** `B_VISHNUVARDAN919`
-
-Currently strengthening:
-
-```text
-Arrays
- ↓
-Strings
- ↓
-Linked Lists
- ↓
-Stacks & Queues
- ↓
-Trees
- ↓
-Graphs
- ↓
-Dynamic Programming
-```
-
----
-
-# 📈 Developer Journey
-
-```text
-       Programming
-            │
-            ▼
-    Web Development
-            │
-            ▼
-     Java / Spring
-            │
-            ▼
-     Machine Learning
-            │
-            ▼
-      Deep Learning
-            │
-            ▼
-     Generative AI
-            │
-            ▼
-       Agentic AI
-            │
-            ▼
-   Production Systems
-```
 
 > **Learn → Build → Break → Debug → Improve → Repeat 🔥**
 
