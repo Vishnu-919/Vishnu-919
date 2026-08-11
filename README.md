@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403" width="400" alt="B Vishnuvardan"/>
+  <img src="https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403"
+       width="180"
+       height="180"
+       alt="B Vishnuvardan"
+       style="border-radius: 50%; object-fit: cover;"/>
 </p>
+
 
 <h1 align="center">🌟 B Vishnuvardan — AI, Code & Cloud Adventures! 🚀</h1>
 
@@ -27,9 +32,6 @@
 
 ## 🌸 About Me
 
-🎓 **B.E. Information Technology** | **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
-
-💼 **Graduate Engineer Trainee at Coforge**
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 
