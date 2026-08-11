@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programmer-Leetcode-181717?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/CyberSecurity-tryhackme-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programmer-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CyberSecurity-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
 ---
