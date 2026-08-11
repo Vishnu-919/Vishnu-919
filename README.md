@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403"
-       width="180"
-       height="180"
        alt="B Vishnuvardan"/>
 </p>
 
@@ -153,65 +151,11 @@
 
 ---
 
-## 💻 Coding Journey
-
-### 🧩 LeetCode
-
-**Username:** `B_VISHNUVARDAN919`
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
 ### 🔐 Cybersecurity
 
 Currently exploring:
 
 `TryHackMe` `Linux` `Networking` `Ethical Hacking` `Web Security` `AI Security`
-
----
-
-## 📈 Developer Journey
-
-```text
-        Programming
-             │
-             ▼
-     Web Development
-             │
-             ▼
-      Java / Spring
-             │
-             ▼
-       Microservices
-             │
-             ▼
-     Machine Learning
-             │
-             ▼
-      Deep Learning
-             │
-             ▼
-      Generative AI
-             │
-             ▼
-        Agentic AI
-             │
-             ▼
-   Production Systems
-```
 
 ---
 
