@@ -14,11 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.E. – Information Technology**
-**Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
-
-💼 **Graduate Engineer Trainee – Coforge**
-
 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
 ☕ Interested in **Java, Spring Boot & Backend Development**
@@ -179,18 +174,6 @@ Full-stack service booking platform with real-time communication.
 
 ---
 
-# 🏆 Certifications & Achievements
-
-| 🏅 Achievement      | Details                                    |
-| ------------------- | ------------------------------------------ |
-| 💼 Placement        | **Coforge – Graduate Engineer Trainee**    |
-| 🤖 AI Certification | **Oracle Cloud Infrastructure 2025 – AI**  |
-| 🧠 Internship       | **AI Prompt Engineering – Future Interns** |
-| 📚 Certifications   | **NPTEL Certifications**                   |
-| 🎓 Academic         | **CGPA – 8.23**                            |
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -205,64 +188,9 @@ Full-stack service booking platform with real-time communication.
 
 ---
 
-# 💻 Coding Journey
-
-### 🧩 LeetCode
-
-**Username:** `B_VISHNUVARDAN919`
-
-Currently strengthening:
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
----
-
-# 📈 Developer Journey
-
-```text
-       Programming
-            │
-            ▼
-    Web Development
-            │
-            ▼
-     Java / Spring
-            │
-            ▼
-     Machine Learning
-            │
-            ▼
-      Deep Learning
-            │
-            ▼
-     Generative AI
-            │
-            ▼
-       Agentic AI
-            │
-            ▼
-   Production Systems
-```
+<p align="center">
 
 > **Learn → Build → Break → Debug → Improve → Repeat 🔥**
-
----
-
-<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
