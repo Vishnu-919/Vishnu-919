@@ -127,20 +127,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-🏅 **Oracle Cloud Infrastructure 2025 – AI Certification**
-
-🤖 **AI Prompt Engineering Internship – Future Interns**
-
-📚 **NPTEL Certifications**
-
-💼 **Selected as Graduate Engineer Trainee – Coforge**
-
-🎓 **CGPA: 8.23**
-
----
-
 ## 🧠 Currently Learning
 
 * 🤖 Advanced Machine Learning & Deep Learning
@@ -168,65 +154,11 @@
 
 ---
 
-## 💻 Coding Journey
-
-### 🧩 LeetCode
-
-**Username:** `B_VISHNUVARDAN919`
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
 ### 🔐 Cybersecurity
 
 Currently exploring:
 
 `TryHackMe` `Linux` `Networking` `Ethical Hacking` `Web Security` `AI Security`
-
----
-
-## 📈 Developer Journey
-
-```text
-        Programming
-             │
-             ▼
-     Web Development
-             │
-             ▼
-      Java / Spring
-             │
-             ▼
-       Microservices
-             │
-             ▼
-     Machine Learning
-             │
-             ▼
-      Deep Learning
-             │
-             ▼
-      Generative AI
-             │
-             ▼
-        Agentic AI
-             │
-             ▼
-   Production Systems
-```
 
 ---
 
