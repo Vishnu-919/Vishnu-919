@@ -1,5 +1,6 @@
 <p align="center">
-  <img src=""C:\Users\Vishnu Vardan\OneDrive\Documents\HTML5\images\robot.jpg"" width="400"/>
+  <img src="<img width="253" height="148" alt="image" src="https://github.com/user-attachments/assets/d83b6cb4-6563-4181-8632-5a3717b87403" />
+" width="400"/>
 </p>
 
 <h1 align="center">🌟 B Vishnuvardan — AI, Code & Cloud Adventures! 🚀</h1>
